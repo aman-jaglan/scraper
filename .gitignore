@@ -1,0 +1,56 @@
+# Byte‑compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.env/
+.venv/
+venv/
+env/
+env.bak/
+
+# dotenv environment variables
+.env
+
+# Logs
+*.log
+
+# Coverage and test output
+htmlcov/
+.coverage
+.coverage.*
+.cache/
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# CSV output (job lists, descriptions, etc.)
+*.csv
+
+# Playwright reports and artifacts
+playwright-report/
+playwright-report-*
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.sublime-*
+
+# macOS
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
